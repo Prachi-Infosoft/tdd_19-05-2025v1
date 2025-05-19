@@ -2,7 +2,8 @@
   "name": "TDDTransportClient",
   "short_name": "TDDTransportClient",
   "id": "./",
-  "start_url": "./",
+  "start_url": "/tdd_19-05-2025v1/",
+"scope":"/tdd_19-05-2025v1/"
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
